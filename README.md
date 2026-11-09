@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cesta-k-obrazku.png" alt="hamster" width="300">
+  <img src="hamster-cry.gif" alt="hamster cry">
   <p>pls be nice</p>
 </div>
 
