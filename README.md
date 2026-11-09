@@ -29,4 +29,6 @@ Weby, které využívám pro zjednodušení mého (IT) života
 * [npm](https://www.npmjs.com/)
 * [Express.js](https://expressjs.com/)
 * [EJS](https://ejs.co/)
-* [TAAG (Text to ASCII Art Generator)](https://patorjk.com/software/taag/)
+
+### **Nejdůležitější nástroj pro IT**
+* [THE BEST TOOL](https://patorjk.com/software/taag/)
