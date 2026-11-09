@@ -22,7 +22,8 @@ Weby, které využívám pro zjednodušení mého (IT) života
 * [Penpot](https://penpot.app/)
 * [Pixabay](https://pixabay.com/)
 * [StockSnap.io](https://stocksnap.io/)
-* [Fontjoy](https://fontjoy.com/)
+* [typ.io](https://typ.io/s/7dzk)
+* [ziptools](https://ziptools.io/tools/font-pairing)
 
 ### **Web Vývoj (Dokumentace, knihovny, frameworks a nástroje)**
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
