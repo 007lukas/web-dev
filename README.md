@@ -8,6 +8,10 @@ Weby, které využívám pro zjednodušení mého (IT) života
 
 ---
 
+
+### **Nejdůležitější a nejnepostradatelnější nástroj pro IT**
+* [THE BEST TOOL](https://patorjk.com/software/taag/)
+
 ### **Web Design (Barevné palety, obrázky, grafické nástroje)**
 * [Coolors](https://coolors.co/)
 * [Color Hunt](https://colorhunt.co/)
@@ -29,6 +33,3 @@ Weby, které využívám pro zjednodušení mého (IT) života
 * [npm](https://www.npmjs.com/)
 * [Express.js](https://expressjs.com/)
 * [EJS](https://ejs.co/)
-### **Nejdůležitější nástroj pro IT**
-
-* [THE BEST TOOL](https://patorjk.com/software/taag/)
