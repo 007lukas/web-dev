@@ -1,4 +1,5 @@
 ![Popis obrázku](hamster-cry.gif)
+pls be nice
 
 # web-dev
 Weby, které využívám pro zjednodušení mého (IT) života
