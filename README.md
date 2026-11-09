@@ -1,5 +1,7 @@
-![Popis obrázku](hamster-cry.gif)
-pls be nice
+<div align="center">
+  <img src="cesta-k-obrazku.png" alt="hamster" width="300">
+  <p>pls be nice</p>
+</div>
 
 # web-dev
 Weby, které využívám pro zjednodušení mého (IT) života
