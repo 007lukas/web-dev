@@ -10,7 +10,7 @@ Weby, které využívám pro zjednodušení mého (IT) života
 
 
 ### **Nejdůležitější a nejnepostradatelnější nástroj pro IT**
-* [THE BEST TOOL](https://patorjk.com/software/taag/)
+* [THE BEST TOOL]([https://patorjk.com/software/taag/](https://patorjk.com/software/taag/#p=display&f=Bleach&t=Chc%C3%ADpni&x=none&v=4&h=4&w=80&we=false&ft=thedraw))
 
 ### **Web Design (Barevné palety, obrázky, grafické nástroje)**
 * [Coolors](https://coolors.co/)
